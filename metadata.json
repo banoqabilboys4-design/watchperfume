@@ -1,0 +1,6 @@
+{
+  "name": "A.ROYAL — Luxury Watches & Signature Perfumes",
+  "description": "A.royal luxury ecommerce boutique featuring exquisite horological timepieces and haute parfumerie with real-time order processing, order tracking, and administrative store management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,525 @@
+{
+  "products": [
+    {
+      "id": "royal-chronograph",
+      "name": "Royal Chronograph",
+      "category": "Watches",
+      "price": 24999,
+      "salePrice": 21999,
+      "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "Masterpiece chronograph with hand-finished dual sub-dials and sapphire crystal.",
+      "description": "The Royal Chronograph stands as the pinnacle of precision horology. Featuring a 42mm 316L surgical stainless steel case, brushed champagne indices, and an ultra-precise Japanese chronograph movement, it commands attention in both executive boardrooms and evening celebrations.",
+      "stock": 12,
+      "featured": true,
+      "bestSeller": true,
+      "rating": 4.9,
+      "reviewCount": 38,
+      "specifications": {
+        "Case": "42mm Surgical-Grade 316L Stainless Steel",
+        "Movement": "High-Precision Calibre Dual-Chrono Quartz",
+        "Glass": "Scratch-Resistant Domed Sapphire Crystal",
+        "WaterResistance": "5 ATM (50 Meters)",
+        "Strap": "Solid Link Brushed Steel Bracelet with Butterfly Clasp",
+        "Warranty": "2-Year International Horology Guarantee"
+      }
+    },
+    {
+      "id": "noir-automatic",
+      "name": "Noir Automatic",
+      "category": "Watches",
+      "price": 32999,
+      "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "Stealth obsidian automatic with an exhibition sapphire caseback.",
+      "description": "Engineered for those who value understated power. The Noir Automatic pairs a matte obsidian black PVD casing with an exposed 24-jewel self-winding mechanical movement that harnesses kinetic energy from your wrist motion.",
+      "stock": 8,
+      "featured": true,
+      "bestSeller": true,
+      "rating": 5,
+      "reviewCount": 29,
+      "specifications": {
+        "Case": "40mm Matte Obsidian Black PVD Coated Steel",
+        "Movement": "24-Jewel Automatic Self-Winding (42h Reserve)",
+        "Glass": "Anti-Reflective Double Sapphire Crystal",
+        "WaterResistance": "5 ATM (50 Meters)",
+        "Strap": "Genuine Full-Grain Italian Calfskin Leather",
+        "Warranty": "3-Year International Horology Guarantee"
+      }
+    },
+    {
+      "id": "imperial-silver",
+      "name": "Imperial Silver",
+      "category": "Watches",
+      "price": 18999,
+      "salePrice": 16999,
+      "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "Classic sunburst dial with faceted baton indices and ultra-thin profile.",
+      "description": "A timeless silhouette designed for effortless elegance. The Imperial Silver features an ultra-slim 7.8mm profile that slips seamlessly beneath tailored cuffs, accentuated by a polished silver sunray dial.",
+      "stock": 22,
+      "featured": false,
+      "bestSeller": false,
+      "newArrival": true,
+      "rating": 4.8,
+      "reviewCount": 19,
+      "specifications": {
+        "Case": "39mm Mirror-Polished 316L Stainless Steel (7.8mm Ultra-Thin)",
+        "Movement": "Swiss-Engineered Slimline Quartz",
+        "Glass": "Triple-Coated Hardened Mineral Crystal",
+        "WaterResistance": "3 ATM (30 Meters)",
+        "Strap": "Engineered 5-Link Jubilee Style Steel Bracelet",
+        "Warranty": "2-Year International Horology Guarantee"
+      }
+    },
+    {
+      "id": "monarch-rose-gold",
+      "name": "Monarch Rose Gold",
+      "category": "Watches",
+      "price": 28499,
+      "image": "https://images.unsplash.com/photo-1547996160-71dfabb1d898?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1547996160-71dfabb1d898?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "18k rose gold ion-plated case with midnight sapphire dial and fluted bezel.",
+      "description": "The Monarch Rose Gold celebrates aristocratic grandeur. Its warm 18k rose gold ion plating radiates refined luxury against a mesmerizing deep midnight blue dial with luminescent hands.",
+      "stock": 11,
+      "featured": true,
+      "bestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 42,
+      "specifications": {
+        "Case": "41mm 18k Rose Gold Ion-Plated Solid Steel with Fluted Bezel",
+        "Movement": "High-Precision Date Quartz Calibre",
+        "Glass": "Cyclops Magnified Date Sapphire Crystal",
+        "WaterResistance": "5 ATM (50 Meters)",
+        "Strap": "Presidential-style 3-Link Rose Gold Steel Bracelet",
+        "Warranty": "2-Year International Horology Guarantee"
+      }
+    },
+    {
+      "id": "celestial-tourbillon",
+      "name": "Celestial Tourbillon",
+      "category": "Watches",
+      "price": 48999,
+      "salePrice": 44500,
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "Open-worked skeleton dial with visible oscillating balance flywheel.",
+      "description": "An architectural marvel on the wrist. Celestial Tourbillon showcases the beating mechanical heart through double-domed anti-reflective sapphire, revealing skeletonized bridges and precision balance wheels.",
+      "stock": 5,
+      "featured": true,
+      "bestSeller": false,
+      "newArrival": true,
+      "rating": 5,
+      "reviewCount": 15,
+      "specifications": {
+        "Case": "43mm Hand-Brushed Steel with Exposed Titanium Screws",
+        "Movement": "Openwork Skeleton Mechanical Movement (Manual & Auto)",
+        "Glass": "Double-Domed AR Coated Sapphire Crystal",
+        "WaterResistance": "5 ATM (50 Meters)",
+        "Strap": "Handcrafted Perforated Italian Racing Leather",
+        "Warranty": "5-Year Master Horologist Guarantee"
+      }
+    },
+    {
+      "id": "aquamarine-diver",
+      "name": "Aquamarine Diver",
+      "category": "Watches",
+      "price": 22999,
+      "image": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "Professional 300M maritime diver with ceramic unidirectional bezel.",
+      "description": "Crafted for oceanic exploration and yachting leisure. Equipped with a scratchproof ceramic bezel, helium release valve, and Swiss Super-LumiNova luminescence that shines vividly in ocean depths.",
+      "stock": 19,
+      "featured": false,
+      "bestSeller": true,
+      "rating": 4.8,
+      "reviewCount": 31,
+      "specifications": {
+        "Case": "42.5mm Heavy-Duty 316L Brushed Steel with Screw-Down Crown",
+        "Movement": "High-Torque Shock-Resistant Quartz Diver Movement",
+        "Glass": "3.2mm Flat Sapphire with Inner Anti-Glare Film",
+        "WaterResistance": "30 ATM (300 Meters / 1000 Feet)",
+        "Strap": "Vulcanized High-Density Silicone Diver Strap + Spare Steel Bracelet",
+        "Warranty": "3-Year Maritime Guarantee"
+      }
+    },
+    {
+      "id": "heritage-gold-classic",
+      "name": "Heritage Gold Classic",
+      "category": "Watches",
+      "price": 26500,
+      "image": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "Vintage cushion case with brushed champagne dial and alligator grain leather.",
+      "description": "Inspired by the golden era of 1950s European gentleman watchmaking. A gently curved cushion silhouette, Roman numerals, and warm champagne lacquer produce an heirloom-quality presence.",
+      "stock": 9,
+      "featured": false,
+      "bestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 22,
+      "specifications": {
+        "Case": "38.5mm Vintage 18k Yellow Gold Ion-Plated Cushion Case",
+        "Movement": "Ultra-Quiet Swiss Precision Movement",
+        "Glass": "Box-Domed Sapphire Crystal",
+        "WaterResistance": "3 ATM (30 Meters)",
+        "Strap": "Cognac Brown Alligator-Embossed Full-Grain Leather",
+        "Warranty": "2-Year Heritage Guarantee"
+      }
+    },
+    {
+      "id": "phantom-carbon-chrono",
+      "name": "Phantom Carbon Chrono",
+      "category": "Watches",
+      "price": 36000,
+      "salePrice": 32500,
+      "image": "https://images.unsplash.com/photo-1517463778531-c063cf476906?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1517463778531-c063cf476906?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "Forged carbon fiber composite with flyback high-speed chronograph.",
+      "description": "Where motorsport lightweight engineering meets avant-garde luxury. Each forged carbon case possesses an unrepeatable marbled grain, complemented by red accents and titanium pushers.",
+      "stock": 6,
+      "featured": false,
+      "bestSeller": false,
+      "newArrival": true,
+      "rating": 5,
+      "reviewCount": 17,
+      "specifications": {
+        "Case": "44mm Forged Carbon Fiber Composite & Grade 5 Titanium",
+        "Movement": "Flyback Chronograph Precision Calibre",
+        "Glass": "Diamond-Like Carbon (DLC) Coated Sapphire",
+        "WaterResistance": "10 ATM (100 Meters)",
+        "Strap": "Textured FKM Fluoroelastomer Sports Strap with Titanium Deployant",
+        "Warranty": "3-Year High-Performance Guarantee"
+      }
+    },
+    {
+      "id": "royal-oud",
+      "name": "Royal Oud",
+      "category": "Perfumes",
+      "price": 14500,
+      "salePrice": 12999,
+      "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "100ml Extrait de Parfum with aged Cambodian oud, smoked amber and Damascus rose.",
+      "description": "A sovereign fragrance built for nobility. Royal Oud opens with rare Sicilian bergamot and pink pepper before descending into opulent Damascus rose, aged Cambodian agarwood (oud), and warm smoked benzoin amber.",
+      "stock": 18,
+      "featured": true,
+      "bestSeller": true,
+      "rating": 4.9,
+      "reviewCount": 54,
+      "specifications": {
+        "Volume": "100ml / 3.4 FL. OZ.",
+        "Concentration": "Extrait de Parfum (30% Essential Oil Concentration)",
+        "TopNotes": "Sicilian Bergamot, Pink Peppercorn, Saffron Stigma",
+        "HeartNotes": "Damascus Taif Rose, Smoked Cedar, Indian Cardamom",
+        "BaseNotes": "Aged Cambodian Oud, Golden Amber, Tonka Bean, Leather",
+        "Longevity": "14+ Hours on Skin, 24+ Hours on Fabric",
+        "Sillage": "Enveloping & Sovereign"
+      }
+    },
+    {
+      "id": "velvet-noir",
+      "name": "Velvet Noir",
+      "category": "Perfumes",
+      "price": 12800,
+      "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "100ml Eau de Parfum Intense of French black truffle, dark patchouli and vanilla.",
+      "description": "Seductive, mysterious, and unforgettable. Velvet Noir captures the sultry warmth of twilight. Earthy black truffle and ylang-ylang melt seamlessly into black orchid and rich Madagascar bourbon vanilla.",
+      "stock": 16,
+      "featured": true,
+      "bestSeller": true,
+      "rating": 5,
+      "reviewCount": 43,
+      "specifications": {
+        "Volume": "100ml / 3.4 FL. OZ.",
+        "Concentration": "Eau de Parfum Intense (25% Oil)",
+        "TopNotes": "French Black Truffle, Ylang-Ylang, Amalfi Lemon",
+        "HeartNotes": "Dark Orchid, Spicy Lotus, Plum Nectar",
+        "BaseNotes": "Madagascar Vanilla, Indonesian Patchouli, Vetiver, Sandalwood",
+        "Longevity": "12+ Hours",
+        "Sillage": "Intimate yet Powerful"
+      }
+    },
+    {
+      "id": "aura-oud",
+      "name": "Aura Oud",
+      "category": "Perfumes",
+      "price": 16000,
+      "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "100ml Pure Extrait with Dehn Al Oud, royal frankincense and golden honey.",
+      "description": "An ethereal celebration of oriental mysticism. Aura Oud showcases wild-harvested Dehn Al Oud aged for seven years, illuminated by golden desert honey and pure Omani royal frankincense.",
+      "stock": 12,
+      "featured": true,
+      "bestSeller": false,
+      "newArrival": true,
+      "rating": 4.9,
+      "reviewCount": 31,
+      "specifications": {
+        "Volume": "100ml / 3.4 FL. OZ.",
+        "Concentration": "Extrait de Parfum (32% Oil)",
+        "TopNotes": "Wild Honey, Frankincense Resins, Nutmeg",
+        "HeartNotes": "Dehn Al Oud, Cistus Labdanum, Cinnamon Bark",
+        "BaseNotes": "Precious Agarwood, Ambergris, Benzoin, Mysore Sandalwood",
+        "Longevity": "16+ Hours",
+        "Sillage": "Royal Radiance"
+      }
+    },
+    {
+      "id": "crown-amber",
+      "name": "Crown Amber",
+      "category": "Perfumes",
+      "price": 11999,
+      "salePrice": 10499,
+      "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "100ml Eau de Parfum with fossilized amber resin, sweet myrrh and dry cedar.",
+      "description": "Golden warmth captured in crystal glass. Crown Amber warms the senses with sweet Arabian myrrh, caramelized vanilla pods, roasted tonka, and ancient amber resins.",
+      "stock": 25,
+      "featured": false,
+      "bestSeller": true,
+      "rating": 4.8,
+      "reviewCount": 37,
+      "specifications": {
+        "Volume": "100ml / 3.4 FL. OZ.",
+        "Concentration": "Eau de Parfum (22% Oil)",
+        "TopNotes": "Sweet Orange Blossom, Golden Coriander",
+        "HeartNotes": "Caramelized Benzoin, Sweet Myrrh, Cinnamon",
+        "BaseNotes": "Fossilized Amber, Virginia Cedarwood, Madagascar Vanilla",
+        "Longevity": "10-12 Hours",
+        "Sillage": "Warm Comforting Cloud"
+      }
+    },
+    {
+      "id": "sultans-blend-extrait",
+      "name": "Sultan's Blend Extrait",
+      "category": "Perfumes",
+      "price": 18500,
+      "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "100ml Pure Parfum reserved for royalty: Royal Taif Rose, Wild Agarwood and Civet.",
+      "description": "Our crowning masterpiece. Sultan's Blend combines rarest first-harvest Taif rose water with double-distilled wild Kalimantan oud, Kashmir saffron threads, and animalic musk accord.",
+      "stock": 7,
+      "featured": true,
+      "bestSeller": false,
+      "newArrival": true,
+      "rating": 5,
+      "reviewCount": 26,
+      "specifications": {
+        "Volume": "100ml / 3.4 FL. OZ. (Numbered Crystal Flacon)",
+        "Concentration": "Pure Parfum Extrait (35% Oil)",
+        "TopNotes": "First-Harvest Taif Rose, Persian Saffron",
+        "HeartNotes": "Wild Kalimantan Agarwood, Geranium Bourbon, Leather",
+        "BaseNotes": "Royal White Musk, Castoreum Accord, Ambergris, Oakmoss",
+        "Longevity": "24 Hours",
+        "Sillage": "Monumental Projection"
+      }
+    },
+    {
+      "id": "imperial-leather-woods",
+      "name": "Imperial Leather & Woods",
+      "category": "Perfumes",
+      "price": 13999,
+      "image": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "100ml Eau de Parfum with rich Tuscan leather, birch tar and Haitian vetiver.",
+      "description": "Evoking the private libraries and equestrian clubs of heritage nobility. Smoky Russian birch tar combines with supple Tuscan saddle leather and earthy vetiver roots.",
+      "stock": 14,
+      "featured": false,
+      "bestSeller": false,
+      "rating": 4.8,
+      "reviewCount": 20,
+      "specifications": {
+        "Volume": "100ml / 3.4 FL. OZ.",
+        "Concentration": "Eau de Parfum (24% Oil)",
+        "TopNotes": "Cardamom Seed, Violet Leaf, Italian Thyme",
+        "HeartNotes": "Tuscan Saddle Leather, Jasmine Sambac, Orris Root",
+        "BaseNotes": "Haitian Vetiver, Russian Birch Tar, Guaiac Wood, Amber",
+        "Longevity": "12 Hours",
+        "Sillage": "Sophisticated & Distinguished"
+      }
+    },
+    {
+      "id": "white-amber-crystal",
+      "name": "White Amber Crystal",
+      "category": "Perfumes",
+      "price": 12500,
+      "salePrice": 11200,
+      "image": "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "100ml Extrait of white ambergris, sparkling bergamot and crisp cashmere.",
+      "description": "An illuminating, modern, clean luxury scent. Crisp Calabrian bergamot opens onto clean aquatic florals, grounded by luminous white ambergris and smooth cashmere woods.",
+      "stock": 21,
+      "featured": false,
+      "bestSeller": false,
+      "rating": 4.9,
+      "reviewCount": 34,
+      "specifications": {
+        "Volume": "100ml / 3.4 FL. OZ.",
+        "Concentration": "Extrait de Parfum (28% Oil)",
+        "TopNotes": "Calabrian Bergamot, Green Apple, White Freesia",
+        "HeartNotes": "Lily of the Valley, White Iris, Solar Jasmine",
+        "BaseNotes": "White Ambergris, Cashmere Woods, Clean Musk, Cedar",
+        "Longevity": "14 Hours",
+        "Sillage": "Luminous Seductive Trail"
+      }
+    },
+    {
+      "id": "celestial-saffron-elixir",
+      "name": "Celestial Saffron Elixir",
+      "category": "Perfumes",
+      "price": 15200,
+      "image": "https://images.unsplash.com/photo-1563178406-4cdc2923acbc?auto=format&fit=crop&w=900&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1563178406-4cdc2923acbc?auto=format&fit=crop&w=900&q=80"
+      ],
+      "shortDescription": "100ml Extrait with crimson Kashmiri saffron, praline, and cedar resin.",
+      "description": "A glowing confection of spiced warmth. Hand-harvested red saffron filaments infused into candied praline, golden fir balsam, and dry Atlas cedarwood.",
+      "stock": 11,
+      "featured": false,
+      "bestSeller": false,
+      "newArrival": true,
+      "rating": 5,
+      "reviewCount": 22,
+      "specifications": {
+        "Volume": "100ml / 3.4 FL. OZ.",
+        "Concentration": "Extrait de Parfum (30% Oil)",
+        "TopNotes": "Kashmiri Red Saffron, Bitter Almond, Cardamom",
+        "HeartNotes": "Egyptian Jasmine, Roasted Hazelnut Praline, Fir Balsam",
+        "BaseNotes": "Atlas Cedar, Warm Amberwood, Musk",
+        "Longevity": "14+ Hours",
+        "Sillage": "Mesmerizing & Addictive"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": "AR-2026-43378",
+      "customerName": "Wahab Naseem",
+      "customerPhone": "+92 300 9876543",
+      "customerEmail": "customer@example.com",
+      "shippingAddress": "House 12, Street 4, Sector F-7/2",
+      "city": "Islamabad",
+      "postalCode": "44000",
+      "orderNotes": "Please handle with care - luxury packaging requested",
+      "paymentMethod": "cash_on_delivery",
+      "items": [
+        {
+          "productId": "royal-chronograph",
+          "name": "Royal Chronograph",
+          "category": "Watches",
+          "price": 21999,
+          "quantity": 1,
+          "total": 21999,
+          "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=80"
+        },
+        {
+          "productId": "royal-oud",
+          "name": "Royal Oud",
+          "category": "Perfumes",
+          "price": 12999,
+          "quantity": 1,
+          "total": 12999,
+          "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80"
+        }
+      ],
+      "subtotal": 34998,
+      "discount": 0,
+      "shippingFee": 0,
+      "totalAmount": 34998,
+      "status": "Confirmed",
+      "notificationSent": true,
+      "notificationRecipient": "wahab.naseem6040@gmail.com",
+      "createdAt": "2026-10-06T05:01:46.788Z",
+      "updatedAt": "2026-10-06T05:02:46.213Z"
+    }
+  ],
+  "customers": [
+    {
+      "fullName": "Wahab Naseem",
+      "email": "customer@example.com",
+      "phone": "+92 300 9876543",
+      "address": "House 12, Street 4, Sector F-7/2",
+      "city": "Islamabad",
+      "postalCode": "44000",
+      "totalOrders": 1,
+      "totalSpent": 34998,
+      "createdAt": "2026-10-06T05:01:46.788Z"
+    }
+  ],
+  "adminPassword": "aroyal2026",
+  "settings": {
+    "storeName": "A.royal",
+    "notificationEmail": "wahab.naseem6040@gmail.com",
+    "currency": "PKR",
+    "currencySymbol": "PKR",
+    "freeShippingThreshold": 15000,
+    "standardShippingFee": 450,
+    "bankDetails": {
+      "bankName": "Meezan Bank Ltd (Islamic Banking)",
+      "accountTitle": "A.ROYAL LUXURY HAUS",
+      "accountNumber": "02010108920192",
+      "iban": "PK45MEZN0002010108920192"
+    }
+  },
+  "notificationLog": [
+    {
+      "id": "notif-1791262974797",
+      "orderId": "AR-2026-TEST",
+      "recipient": "wahab.naseem6040@gmail.com",
+      "subject": "[A.ROYAL ORDER] AR-2026-TEST - A.royal System Test (PKR 24,999)",
+      "sentAt": "2026-10-06T05:02:54.797Z",
+      "status": "pending_configuration",
+      "provider": "none",
+      "errorDetails": "Email credentials missing in environment variables. To send real emails to wahab.naseem6040@gmail.com, please configure RESEND_API_KEY (from https://resend.com) or SENDGRID_API_KEY in .env.",
+      "preview": "Order AR-2026-TEST for A.royal System Test totaling PKR 24,999"
+    },
+    {
+      "id": "notif-1791262906800",
+      "orderId": "AR-2026-43378",
+      "recipient": "wahab.naseem6040@gmail.com",
+      "subject": "[A.ROYAL ORDER] AR-2026-43378 - Wahab Naseem (PKR 34,998)",
+      "sentAt": "2026-10-06T05:01:46.800Z",
+      "status": "pending_configuration",
+      "provider": "none",
+      "errorDetails": "Email credentials missing in environment variables. To send real emails to wahab.naseem6040@gmail.com, please configure RESEND_API_KEY (from https://resend.com) or SENDGRID_API_KEY in .env.",
+      "preview": "Order AR-2026-43378 for Wahab Naseem totaling PKR 34,998"
+    }
+  ]
+}
